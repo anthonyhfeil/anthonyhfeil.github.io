@@ -1,0 +1,67 @@
+html{
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  width: 500px;
+}
+
+a {
+  color: rgba(0, 162, 255, 0.479);
+}
+
+nav {
+ font-size: 20px;
+  background-color:pink;
+  width: 150px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#myId{
+  border: 2px solid salmon
+  
+}
+nav ul {
+  list-style-type: upper-roman;
+  height: 300px
+}
+
+img{
+  height: 400px;
+  float: left;
+}
+section {
+  width: 750px;
+  display: inline-block;
+}
+
+p{
+  padding: 20px
+}
+
+aside {
+  width: 25px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:blue;
+  font-size: green;
+}
+
+aside ul {
+  list-style-type: upper-alpha;
+}
+
+footer {
+  width: 100;
+  background-color:pink;
+  text-align:right;
+  padding:5px;
+  display: block;
+}
